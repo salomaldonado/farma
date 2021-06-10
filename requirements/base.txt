@@ -1,4 +1,4 @@
-Django==1.7
+Django==2.2.24
 Pillow==3.1.0
 PyPDF2==1.25.1
 Unipath==1.1
