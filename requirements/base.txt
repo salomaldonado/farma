@@ -7,7 +7,7 @@ ctx==0.1.2
 django-braces==1.8.1
 django-suit==0.2.12
 html5lib==0.9999999
-reportlab==3.2.0
+reportlab==3.5.55
 six==1.10.0
 wsgiref==0.1.2
 xhtml2pdf==0.0.6
